@@ -1,6 +1,4 @@
 /* file FederalPoverty.cpp
-   Programmer -- Jonathan Armstrong
-   Nov. 24, 2011
    Prints a table of above average income 
    + average income + percentage of below average income households*/
 
